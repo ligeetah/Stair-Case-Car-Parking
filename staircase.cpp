@@ -83,6 +83,6 @@ void parking_exit()
     }
     else
     {
-        cout << "One step down." << endl;
+        cout << "One step down." << endl<<endl;
     }
 }
